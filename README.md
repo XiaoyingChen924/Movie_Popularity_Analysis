@@ -10,5 +10,3 @@ This file uses linear regression to fill in the values of "imdb_score" and "tmdb
 # country.ipynb
 This file involves calculating the relationship between production country and popularity and the relationship between the number of a movie that the country releases and its average movie popularity.
 
-
-
