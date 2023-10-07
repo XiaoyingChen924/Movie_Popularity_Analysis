@@ -10,5 +10,8 @@ This file uses linear regression to fill in the values of "imdb_score" and "tmdb
 # country.ipynb
 This file involves calculating the relationship between production country and popularity and the relationship between the number of a movie that the country releases and its average movie popularity.
 
+<<<<<<< HEAD
 # runtime, release year, genres.ipynb
 This file contains the function to test if there are any missing values, Histogram of distribution for Runtime, Release year and Movie popularity, scatter plot for runtime vs. popularity, Pearson-R between movie polularity and Runtime, Mutual Information calcualtion for release year and weighted average population, Multi hot encoding for movie genre and Genre Linear Regression ML model and evalulation for genre vs. popularity with a graph.
+=======
+>>>>>>> cbb63a182bedcd176f800fbffe3273a4bdc01b38
